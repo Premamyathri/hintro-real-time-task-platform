@@ -1,0 +1,4 @@
+node_modules
+.env
+hintro-backend/node_modules
+hintro-frontend/node_modules
